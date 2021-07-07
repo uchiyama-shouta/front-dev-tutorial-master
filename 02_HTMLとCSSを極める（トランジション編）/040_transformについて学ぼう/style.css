@@ -1,0 +1,11 @@
+.rect {
+  width: 100px;
+  height: 100px;
+  margin: 0 auto;
+  background-color: orangered;
+  -webkit-transform: skew(-30deg);
+          transform: skew(-30deg);
+  -webkit-transform-origin: center center;
+          transform-origin: center center;
+}
+/*# sourceMappingURL=style.css.map */
